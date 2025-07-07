@@ -13,6 +13,7 @@ Lestari, A.R.T., Perdana, R.S., & Fauzi, M.A. (2017). Analisis Sentimen Tentang 
 ## Cara Menjalankan
 ```bash
 streamlit run app.py
+```
 
 ## Visulisasi Aplikasi
 ![Tampilan Aplikasi](images/capture_app.jpg)
